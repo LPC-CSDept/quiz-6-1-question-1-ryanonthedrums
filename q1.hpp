@@ -29,7 +29,7 @@ void getinput (float &n1, float &n2)
 
 void swapTwoValues (float &n1, float &n2)
 {
-    int tmp;
+    float tmp;
     tmp = n1;
     n1 = n2;
     n2 = tmp;
